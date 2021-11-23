@@ -1,8 +1,8 @@
-* {
+      * {
       margin: 0;
       padding: 0;
-  }
-  *
+      }
+      *
   {
     text-decoration: none;
   }
@@ -17,7 +17,7 @@
     color: white;
   }
   .header h1 {
-    color: lightcyan;
+    color: light cyan;
     font-size: 40px;
   }
   .header p {
